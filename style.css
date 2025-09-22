@@ -1,6 +1,7 @@
 body {
  color: white;
  background:black;
+ font-family: "Audiowide", sans-serif;
 }
 header{
    border-bottom:solid 2px white;
