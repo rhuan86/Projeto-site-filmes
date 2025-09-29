@@ -6,6 +6,7 @@ body {
 header{
    border-bottom:solid 2px white;
 }
+
 .chamada {
     background: rgb(184, 156, 213);
     padding-bottom: 80px;
@@ -51,7 +52,6 @@ img {
 }
  .categoria h2 {
    color: aliceblue;
-
  }
 
 
