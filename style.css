@@ -30,7 +30,11 @@ p {
 img {
     height: 200px;
 }
+.vision {
+   display: flex;
+   justify-content: right;
 
+}
 .categoria-videos {
     display: flex;
     overflow-x: auto;
