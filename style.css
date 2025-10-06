@@ -33,8 +33,12 @@ img {
 .vision {
    display: flex;
    justify-content: right;
-
 }
+.𝐆𝐑𝐀𝐍 𝐓𝐔𝐑𝐈𝐒𝐌𝐎 {   
+ display: flex;
+justify-content:right ;
+}
+
 .categoria-videos {
     display: flex;
     overflow-x: auto;
