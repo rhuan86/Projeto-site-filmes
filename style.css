@@ -2,6 +2,7 @@ body {
  color: white;
  background:black;
  font-family: "Audiowide", sans-serif;
+ background-image: url("fundo.jpg")
 }
 header{
    border-bottom:solid 2px white;
@@ -30,6 +31,7 @@ p {
 img {
     height: 200px;
 }
+
 .vision {
    display: flex;
    justify-content: right;
