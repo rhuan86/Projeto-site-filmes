@@ -37,11 +37,11 @@ img {
 
 .vision {
    display: flex;
-   justify-content: center;
+   justify-content: left;
 }
 .gran-turismo{   
   display: flex;
-  justify-content:center;
+  justify-content: left;
 }
 
 .categoria-videos {
