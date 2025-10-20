@@ -2,7 +2,10 @@ body {
  color: white;
  background:black;
  font-family: "Audiowide", sans-serif;
- background-image: url("fundo.jpg")
+ background-image: url("fundo.jpg");
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
 }
 header{
    border-bottom:solid 2px white;
