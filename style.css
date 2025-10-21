@@ -24,7 +24,20 @@ header{
 }
 
 h1 {
+    background: linear-gradient(to right, 
+    #ff0000, /* Vermelho */ 
+    #ff7f00, /* Laranja */ 
+    #ffff00, /* Amarelo */ 
+    #00ff00, /* Verde */ 
+    #0000ff, /* Azul */ 
+    #4b0082, /* Anil */ 
+    #9400d3  /* Violeta */
+  );
+  background-clip: text;
+  color: transparent;
     font-size: 40px;
+    font-weight: bold;
+  letter-spacing: 2px;
 }
 
 p {
