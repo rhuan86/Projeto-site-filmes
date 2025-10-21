@@ -23,7 +23,7 @@ header{
     margin-right: 5%;
 }
 
-h1 {
+h1, h2 {
     background: linear-gradient(to right, 
     #ff0000, /* Vermelho */ 
     #ff7f00, /* Laranja */ 
