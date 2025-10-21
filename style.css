@@ -95,7 +95,6 @@ img {
 
 button:hover .stars {
 display: block;
-filter: drop-shadow(0,0,10px);
-color: aliceblue;
+filter: drop-shadow(0,0,10px#fffdef);
 }
 
