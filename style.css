@@ -67,3 +67,14 @@ img {
    color: aliceblue;
  }
 
+.texto-rgb {
+  /* 1. Definir o gradiente (as cores do "arco-íris") */
+  background: linear-gradient(to right, 
+    #ff0000, /* Vermelho */ 
+    #ff7f00, /* Laranja */ 
+    #ffff00, /* Amarelo */ 
+    #00ff00, /* Verde */ 
+    #0000ff, /* Azul */ 
+    #4b0082, /* Anil */ 
+    #9400d3  /* Violeta */
+  );
