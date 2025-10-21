@@ -40,6 +40,22 @@ h1 {
   letter-spacing: 2px;
 }
 
+h2{
+     background: linear-gradient(to right, 
+    #ff0000, /* Vermelho */ 
+    #ff7f00, /* Laranja */ 
+    #ffff00, /* Amarelo */ 
+    #00ff00, /* Verde */ 
+    #0000ff, /* Azul */ 
+    #4b0082, /* Anil */ 
+    #9400d3  /* Violeta */
+  );
+  background-clip: text;
+  color: transparent;
+  padding-left: 20px;
+    padding-right: 20px;
+}
+
 p {
     font-size: 20px;
 }
@@ -64,17 +80,6 @@ img {
 }
 
 .categoria {
-     background: linear-gradient(to right, 
-    #ff0000, /* Vermelho */ 
-    #ff7f00, /* Laranja */ 
-    #ffff00, /* Amarelo */ 
-    #00ff00, /* Verde */ 
-    #0000ff, /* Azul */ 
-    #4b0082, /* Anil */ 
-    #9400d3  /* Violeta */
-  );
-  background-clip: text;
-  color: transparent;
     padding-left: 20px;
     padding-right: 20px;
 }
